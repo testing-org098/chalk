@@ -15,6 +15,9 @@
 			"default": "./source/vendor/supports-color/browser.js"
 		}
 	},
+	"stackblitz": {
+		"startCommand": "node examples/screenshot.js"
+	},
 	"types": "./source/index.d.ts",
 	"engines": {
 		"node": "^12.17.0 || ^14.13 || >=16.0.0"
